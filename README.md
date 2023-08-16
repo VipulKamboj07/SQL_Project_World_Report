@@ -46,6 +46,12 @@ In our conclusion, we'll summarize the key takeaways from our data analysis and 
 
 Feel free to explore the SQL scripts, Power BI report, and queries in this repository to gain insights into the World Happiness Report and the factors that contribute to happiness around the world. If you have any questions, suggestions, or ideas, please don't hesitate to reach out!
 
+
+## Contributors (GitHub Profile)
+
+* [@Arpit Arya](https://github.com/arpit22n0295)
+* [@Satyam Tiwari](https://github.com/Official-Satyam-Tiwari)
+
 **Let's journey through the data and Power BI to uncover the secrets of happiness and gain a better understanding of what makes the world a happier place! 🌟😄🌍**
 
 *(Note: This project is for educational and analytical purposes only. The World Happiness Report is a serious study, and our analysis aims to contribute to understanding the data within the report.)*
